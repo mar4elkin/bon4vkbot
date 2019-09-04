@@ -1,0 +1,16 @@
+{
+  "name": "bon4bot",
+  "version": "0.0.1",
+  "description": "vk bot for bon4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mar4elkin",
+  "license": "ISC",
+  "dependencies": {
+    "easyvk": "^2.5.1",
+    "mysql": "^2.17.1",
+    "node-vk-bot-api": "^2.4.11"
+  }
+}
