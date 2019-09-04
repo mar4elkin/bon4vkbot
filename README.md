@@ -5,7 +5,7 @@
 + импортируйте sql в phpmyadmin
 + Откройте cmd или powershell в корне проекта "shift + right click"
 + Запустите проект с помощью команды node index.js
-![Disabled Device Example](https://i.ibb.co/KyV6YqV/power.png)
 + Наслаждайтесь xD
+![Disabled Device Example](https://i.ibb.co/KyV6YqV/power.png)
 ### PS ###
 Паша лох
