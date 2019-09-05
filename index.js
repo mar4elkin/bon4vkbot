@@ -107,9 +107,6 @@ const bot = new VkBot(process.env.TOKEN = '1292b207641168a503351dce59c9798aa469b
 
 // ------------------------------ users ----------------------------------------- //
 
-
-//let arr_users = []
-
 const session = new Session();
 
 bot.use(session.middleware());
